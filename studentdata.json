@@ -1,0 +1,198 @@
+{
+    "ecs.entity.Entity@80000000": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "15.02.2017 13:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Rick"
+        }
+    },
+    "ecs.entity.Entity@80000001": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "15.02.2017 15:15"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        }
+    },
+    "ecs.entity.Entity@80000002": {
+        "class de.markdeuerling.monitoringtool.features.offTime.Expire": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.Expire"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        }
+    },
+    "ecs.entity.Entity@80000003": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "16.12.2016 16:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        }
+    },
+    "ecs.entity.Entity@80000004": {
+        "class de.markdeuerling.monitoringtool.features.student.Address": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Address",
+            "email": "rick@bht.de",
+            "matNr": "s54781"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Rick"
+        }
+    },
+    "ecs.entity.Entity@80000005": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 14
+        }
+    },
+    "ecs.entity.Entity@80000006": {
+        "class de.markdeuerling.monitoringtool.features.student.Address": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Address",
+            "email": "mark@bht.de",
+            "matNr": "s56065"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        }
+    },
+    "ecs.entity.Entity@80000007": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 28
+        }
+    },
+    "ecs.entity.Entity@80000008": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "08.01.2016 15:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Rick"
+        }
+    },
+    "ecs.entity.Entity@80000009": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Gliederung Besprechen",
+            "nextTalk": "15.12.2016 15:15"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Rick"
+        }
+    },
+    "ecs.entity.Entity@8000000a": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 28
+        }
+    },
+    "ecs.entity.Entity@8000000b": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "05.01.2017 13:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        }
+    },
+    "ecs.entity.Entity@8000000c": {
+        "class de.markdeuerling.monitoringtool.features.timeManager.TimeFormat": {
+            "class": "de.markdeuerling.monitoringtool.features.timeManager.TimeFormat",
+            "format": "dd.MM.yyyy HH:mm"
+        }
+    },
+    "ecs.entity.Entity@8000000d": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 28
+        }
+    },
+    "ecs.entity.Entity@8000000e": {
+        "class de.markdeuerling.monitoringtool.features.student.Address": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Address",
+            "email": "morty@bht.de",
+            "matNr": "s56047"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        }
+    },
+    "ecs.entity.Entity@8000000f": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Besprechung",
+            "nextTalk": "02.12.2016 15:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        }
+    },
+    "ecs.entity.Entity@80000010": {
+        "class de.markdeuerling.monitoringtool.features.mentoring.Mentoring": {
+            "class": "de.markdeuerling.monitoringtool.features.mentoring.Mentoring",
+            "description": "Telefonat",
+            "nextTalk": "04.11.2016 13:00"
+        },
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Mark"
+        }
+    },
+    "ecs.entity.Entity@80000011": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Rick"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 7
+        }
+    },
+    "ecs.entity.Entity@80000012": {
+        "class de.markdeuerling.monitoringtool.features.student.Identity": {
+            "class": "de.markdeuerling.monitoringtool.features.student.Identity",
+            "name": "Morty*"
+        },
+        "class de.markdeuerling.monitoringtool.features.offTime.OffTime": {
+            "class": "de.markdeuerling.monitoringtool.features.offTime.OffTime",
+            "count": 28
+        }
+    }
+}
